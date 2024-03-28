@@ -1,3 +1,3 @@
 #Demo page
 
-https://edsamn.github.io/curriculoBootstrap/src/index.html
+<a target="_blank">https://edsamn.github.io/curriculoBootstrap/src/index.html</a>
