@@ -1,0 +1,62 @@
+.minhaFoto {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  border: solid 5px white;
+}
+
+.links {
+  text-decoration: none;
+  color: white;
+}
+
+.links:hover {
+  color: gray;
+}
+
+.coluna1 {
+  height: 100vh;
+  background-color: #1b1b32;
+}
+
+.coluna2 {
+  color: #1b1b32;
+  background: linear-gradient(90deg, #f5f6f7, #1b1b32);
+  padding-left: 70px;
+}
+
+span {
+  color: white;
+}
+
+.pageContent {
+  width: 80%;
+}
+
+.text {
+  text-align: justify;
+}
+
+.github,
+.insta,
+.linkedin {
+  width: 40px;
+  height: 40px;
+}
+
+.face {
+  width: 55px;
+  height: 55px;
+}
+
+.github:hover,
+.insta:hover,
+.linkedin:hover {
+  width: 70px;
+  height: 70px;
+}
+
+.face:hover {
+  width: 85px;
+  height: 85px;
+}
